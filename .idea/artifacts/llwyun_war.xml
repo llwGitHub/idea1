@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="llwyun:war">
+    <output-path>D:/MyEclipse 2015 CI/llwyun/target</output-path>
+    <root id="archive" name="llwyun-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="llwyun:war exploded" />
+    </root>
+  </artifact>
+</component>
